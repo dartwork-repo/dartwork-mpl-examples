@@ -18,3 +18,6 @@ pip install --editable ./dartwork-mpl
 수정 가능한 버전으로 설치해야지만 `./dartwork-mpl`의 내용을 수정했을 때 설치된 `dartwork-mpl`
 기능도 업데이트 됩니다. 그렇지 않으면 분리된 라이브러리 저장폴더에 `./dartwork-mpl` 내용이 카피되어 
 설치되기 때문에 `./dartwork-mpl`의 변경 사항이 반영되지 않습니다.
+
+원격 저장소에 있는 최신 버전의 `dartwork-mpl`을 설치하기 위해서는 `./dartwork-mpl`에 진입하여
+`git pull`을 수행하면 됩니다. 반대로 `./dartwork-mpl`의 내용을 원격 저장소에 올리기 위해서는 `git push`를 입력합니다. 이러한 과정은 VSCode GUI에서도 수행할 수 있습니다.
