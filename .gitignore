@@ -3,4 +3,21 @@ __pycache__
 
 # To order to prevent commit of file of large size.
 *.csv
+*.pkl
+*.npy
+*.npz
+
+# figure files
+*.png
+*.eps
+*.pdf
+*.svg
+*.jpg
+*.jpeg
+*.gif
+*.tif
+*.tiff
+*.h5
+
 example/heatmaps/multivariate_normal_*
+
