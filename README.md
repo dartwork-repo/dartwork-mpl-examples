@@ -1,5 +1,28 @@
 # 저장소 설명
 
+이 저장소는 `dartwork-mpl`을 사용한 plot example에 관한 것입니다. 다음과 같은
+커멘드로 dartwork-mpl을 설치하세요.
+
+```bash
+pip install git+https://github.com/dartwork-repo/dartwork-mpl
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 과거 설명 (사용하지 마세요)
+
 이 저장소는 `dartwork-mpl`을 사용한 plot example에 관한 것입니다. 
 이는 `dartwork-mpl`을 깃 서브모듈로 포함합니다.  
 깃 서브모듈이란 하나의 깃 저장소 안에 다른 깃 저장소를 포함하는 개념입니다. 
