@@ -7,7 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-dartwork-mpl = {path = "dartwork-mpl", develop = true}
+dartwork-mpl = {git = "https://github.com/dartwork-repo/dartwork-mpl"}
+notebook = "^7.2.1"
+pandas = "^2.2.2"
 
 
 [build-system]
